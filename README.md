@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ## Diagram
 
-![image](https://github.com/Stage-A/Document-Intelligence/blob/10/images/Diagram.png)
+![image](images/Diagram.png)
 
 ## Target
 
