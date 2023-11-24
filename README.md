@@ -1,4 +1,9 @@
 # Stage-A Document Intelligence
+## Flow chart
+![Image](images/flow_chart.png)
+
+## Sample execution
+![Image](images/sample_exec.png)
 
 ## Installation
 
